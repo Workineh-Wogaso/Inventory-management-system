@@ -1,4 +1,4 @@
 
   <h1 align=center>inventory management system</h1>
+  <div style="text-align:center"><img src="/asset/image/logo.png" alt="Inventory Management System Logo"/></div>
   
-  <align=center> ![Inventory Management System Logo](/asset/image/logo.png)</>
