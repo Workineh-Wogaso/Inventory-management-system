@@ -6,7 +6,7 @@
   <br>
     You can find <a href='https://workinehwogaso.wixsite.com/inventory-management'>Landing Page Link</a>
   <br>  <br>
-    <h3 align=center>Team members Linkdin</h3>
+    <h3 align=left>Team members Linkdin</h3>
   <a href='https://www.linkedin.com/in/leulseged-ayalew-352a461a0'>Leulseged Ayalew </a> <br>
   <a href='https://www.linkedin.com/in/workineh-wogaso-57b9a3163/'>Workineh Wogaso </a> 
   Blog post <br>
