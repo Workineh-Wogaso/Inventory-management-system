@@ -12,6 +12,7 @@
    <br>
    <a href='https://www.linkedin.com/in/lidya-genene-249168205/'>Lidya Genene </a> 
    <br>
+       <h3 align=left>Team members Blog Post</h3>
    <a href='https://medium.com/@leulbekele191/inventory-management-system-9e956b74ebbd'>Leulseged Ayalew Blog</a> <br>
    <a href='https://medium.com/@workinehw94/inventory-management-system-927a2e04355f'>Workineh Wogaso Blog</a> <br>
    <a href='https://medium.com/@lidyagenene/hello-friends-i-have-been-taking-an-online-software-engineering-course-at-alx-for-the-past-9-2aff6c5d5aa2'>Lidya Genene Blog</a>
